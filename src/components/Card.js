@@ -17,10 +17,10 @@ export default class Card extends Component {
 }
 const CardUser = styled.div`
     box-shadow:2px 2px 2px 2px white;
-    width:32%;
-    margin:15px 0;
-    padding-bottom:10px;
-    border-radius:10px;
+    width:31%;
+    margin:14px 0;
+    padding-bottom:12px;
+    border-radius:12px;
     text-align:center;
     color:white;
     h5{
